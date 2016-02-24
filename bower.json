@@ -1,0 +1,29 @@
+{
+  "name": "fixmylink",
+  "description": "Fix my link",
+  "main": "index.js",
+  "authors": [
+    "James Grubb"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "site",
+    "to",
+    "fix",
+    "links"
+  ],
+  "homepage": "https://github.com/jamesgrubb/fixmylink",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^0.14.7",
+    "babel": "*",
+    "modular-scale": "^2.1.1"
+  }
+}

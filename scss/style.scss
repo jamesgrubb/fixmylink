@@ -1,0 +1,9 @@
+// bower:scss
+@import "../bower_components/modular-scale/stylesheets/_modular-scale.scss";
+// endbower
+@import 'colors';
+@import 'variables';
+body{
+	background : $main;
+	display: flex;
+}

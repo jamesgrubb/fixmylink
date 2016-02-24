@@ -1,0 +1,7 @@
+default :
+  - 'browserSync'
+injectIt :
+  - 'injector'
+  - 'wiredep'
+watchIt :
+  - 'watch'
